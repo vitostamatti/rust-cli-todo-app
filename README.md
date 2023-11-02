@@ -45,8 +45,8 @@ or
 ```
 
 ## TODO:
-- load/save tasks from/to sqlite
 - add more tests
+- add anyhow pretty errors
+- load/save tasks from/to sqlite
 - create a "project" -> "tasks" structure.
-
 
